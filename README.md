@@ -37,7 +37,7 @@ Metrics:
 | Parameter | Value |
 |---|---|
 | Baseline conversion | 50% |
-| MDE | 5 percentage points |
+| MDE | 5 p.p |
 | Alpha | 0.05 |
 | Power | 0.8 |
 | Test type | Two-proportion z-test, two-sided |
